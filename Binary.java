@@ -1,4 +1,3 @@
-package nyp1;
 import java.util.Scanner;
 public class NYP1 {
     public static void main(String[] args) {   
